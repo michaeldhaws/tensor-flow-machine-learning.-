@@ -1,3 +1,6 @@
+
+https://www.youtube.com/watch?v=w0-7Ep4yStw
+
 # tensor-flow-machine-learning.-
 machine learning 
 import tkinter as tk 
